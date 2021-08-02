@@ -1,0 +1,27 @@
+.about-portfolio {
+    background: url(/img/bg-porfolio.jpg) no-repeat center;
+    background-size: cover;
+}
+
+.customer-quote {
+    padding: 60px;
+    max-width: 560px;
+    margin: 0 auto;
+}
+
+.customer-quote p {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-style: italic;
+    line-height: 25px;
+    margin-bottom: 20px;
+}
+
+.customer-quote cite {
+    font-size: 18px;
+    font-weight: bold;
+    font-style: normal;
+    float: right;
+
+}
