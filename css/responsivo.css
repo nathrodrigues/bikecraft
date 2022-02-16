@@ -4,7 +4,7 @@
 	 
 /* Quality */
 
-.quality::after { /* Arrumando as linhas saindo da logo amarela*/
+.quality::after { 
     right: 78px;
 }
 
@@ -27,7 +27,7 @@
 
 /* Products */
 
-.product-items h2 { /* Deixou a escrita em cima da foto */
+.product-items h2 { 
     top: -150px;
     margin-bottom: -56px;
 }
@@ -58,16 +58,16 @@
 
 /* Header */
 
-.header { /* Header nao e mais fixo e não tem mais padding */
+.header { 
     position: relative;
     padding-bottom: 0px;
 }
 
-.header img { /* Alinhou a logo ao centro e deu margem para as novas caixinhas*/
+.header img { 
     margin: 0 auto 10px auto;
 }
 
-.header-menu { /* Alinhou as opcoes do menu ao centro*/
+.header-menu { 
     text-align: center;
 }
 
@@ -88,12 +88,12 @@
 }
 
 .header-menu ul li a.menu {
-    border-color: #FFF; /* Deixa a borda marcada no menu a pg que vc esta com cor diferente*/
+    border-color: #FFF; 
 }
 
 /* Introduction */
 
-.introduction { /* Tirando a margem entre a imagem e o header e diminuindo o padding - foi mudado o bg tbm para um tamanho menor que fica mais rápido para carregar  */
+.introduction { 
     margin-top: 0px;
     padding-top: 40px;
     background: url(../img/bg-home-mobile.jpg) no-repeat center;
@@ -137,7 +137,7 @@
 
 /* Products */
 
-.product-items h2 { /* Deixou a escrita em cima da foto */
+.product-items h2 { 
     top: -100px;
     margin-bottom: -68px;
 }
