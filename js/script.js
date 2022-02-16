@@ -4,7 +4,6 @@ new SimpleSlide({
     time: 5000, // tempo de transição dos slides
   });
 
-   //Slide vai sempre na tag que está o container (está segurando o conteúdo) 
 
   new SimpleSlide({
     slide: 'portfolio', 
